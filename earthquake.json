@@ -1,0 +1,2042 @@
+[
+    {
+        "location": [
+            120.3038,
+            -7.2488,
+            558.63
+        ],
+        "place": "114km N of Lanos, Indonesia",
+        "time_zone": 480,
+        "title": "M 4.6 - 114km N of Lanos, Indonesia",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9pj"
+    },
+    {
+        "location": [
+            -116.4085,
+            36.4378,
+            13.1
+        ],
+        "place": "45km NW of Pahrump, Nevada",
+        "time_zone": -480,
+        "title": "M 1.0 - 45km NW of Pahrump, Nevada",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679111"
+    },
+    {
+        "location": [
+            -115.5401667,
+            35.4735,
+            -1.06
+        ],
+        "place": "21km SW of Primm, NV",
+        "time_zone": -480,
+        "title": "M 2.3 Quarry Blast - 21km SW of Primm, NV",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38480640"
+    },
+    {
+        "location": [
+            179.9946,
+            -23.9846,
+            507.97
+        ],
+        "place": "South of the Fiji Islands",
+        "time_zone": 720,
+        "title": "M 4.8 - South of the Fiji Islands",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9nw"
+    },
+    {
+        "location": [
+            -120.5981667,
+            36.0351667,
+            3.45
+        ],
+        "place": "21km NW of Parkfield, CA",
+        "time_zone": -480,
+        "title": "M 1.2 - 21km NW of Parkfield, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73147021"
+    },
+    {
+        "location": [
+            -71.6703,
+            -30.5629,
+            13.56
+        ],
+        "place": "45km W of Ovalle, Chile",
+        "time_zone": -240,
+        "title": "M 5.2 - 45km W of Ovalle, Chile",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9nk"
+    },
+    {
+        "location": [
+            -114.9858333,
+            33.0695,
+            -0.2
+        ],
+        "place": "47km NE of Holtville, CA",
+        "time_zone": -480,
+        "title": "M 2.0 Quarry Blast - 47km NE of Holtville, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38480528"
+    },
+    {
+        "location": [
+            -149.1389,
+            62.366,
+            0
+        ],
+        "place": "43km ENE of Y, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 43km ENE of Y, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rlfnua"
+    },
+    {
+        "location": [
+            -152.1401,
+            59.8234,
+            70.5
+        ],
+        "place": "18km WNW of Anchor Point, Alaska",
+        "time_zone": -540,
+        "title": "M 1.1 - 18km WNW of Anchor Point, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rlf7bj"
+    },
+    {
+        "location": [
+            -97.7815,
+            35.1905,
+            5.59
+        ],
+        "place": "11km SSE of Tuttle, Oklahoma",
+        "time_zone": -360,
+        "title": "M 2.1 - 11km SSE of Tuttle, Oklahoma",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9m4"
+    },
+    {
+        "location": [
+            -148.509,
+            60.8079,
+            20.7
+        ],
+        "place": "10km ENE of Whittier, Alaska",
+        "time_zone": -540,
+        "title": "M 2.3 - 10km ENE of Whittier, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rld1tz"
+    },
+    {
+        "location": [
+            -120.5966667,
+            36.0346667,
+            3.5
+        ],
+        "place": "21km NW of Parkfield, CA",
+        "time_zone": -480,
+        "title": "M 1.3 - 21km NW of Parkfield, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73147006"
+    },
+    {
+        "location": [
+            -152.2761,
+            60.6813,
+            90.4
+        ],
+        "place": "33km NE of Redoubt Volcano, Alaska",
+        "time_zone": -540,
+        "title": "M 1.9 - 33km NE of Redoubt Volcano, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rl13em"
+    },
+    {
+        "location": [
+            -120.5973333,
+            36.0313333,
+            4.99
+        ],
+        "place": "21km NW of Parkfield, CA",
+        "time_zone": -480,
+        "title": "M 2.2 - 21km NW of Parkfield, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146996"
+    },
+    {
+        "location": [
+            -121.3038333,
+            36.6801667,
+            4.89
+        ],
+        "place": "12km S of Tres Pinos, CA",
+        "time_zone": -480,
+        "title": "M 2.5 - 12km S of Tres Pinos, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146991"
+    },
+    {
+        "location": [
+            -149.9359,
+            55.862,
+            7.96
+        ],
+        "place": "262km SE of Kodiak, Alaska",
+        "time_zone": -600,
+        "title": "M 3.2 - 262km SE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9pc"
+    },
+    {
+        "location": [
+            -149.9868,
+            55.7125,
+            10
+        ],
+        "place": "274km SSE of Kodiak, Alaska",
+        "time_zone": -600,
+        "title": "M 3.7 - 274km SSE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9k4"
+    },
+    {
+        "location": [
+            -117.1808333,
+            33.2263333,
+            -0.39
+        ],
+        "place": "6km ENE of Vista, CA",
+        "time_zone": -480,
+        "title": "M 1.0 Quarry Blast - 6km ENE of Vista, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38480480"
+    },
+    {
+        "location": [
+            141.0643,
+            36.526,
+            42.55
+        ],
+        "place": "37km ESE of Hitachi, Japan",
+        "time_zone": 540,
+        "title": "M 4.4 - 37km ESE of Hitachi, Japan",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9jg"
+    },
+    {
+        "location": [
+            -152.5549,
+            59.6866,
+            90
+        ],
+        "place": "41km WSW of Anchor Point, Alaska",
+        "time_zone": -540,
+        "title": "M 1.8 - 41km WSW of Anchor Point, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rki7c1"
+    },
+    {
+        "location": [
+            120.7215,
+            16.9676,
+            99.41
+        ],
+        "place": "2km WNW of Comillas Norte, Philippines",
+        "time_zone": 480,
+        "title": "M 4.6 - 2km WNW of Comillas Norte, Philippines",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9j3"
+    },
+    {
+        "location": [
+            -120.5806667,
+            35.4338333,
+            -0.45
+        ],
+        "place": "6km NNE of Santa Margarita, CA",
+        "time_zone": -480,
+        "title": "M 1.3 Quarry Blast - 6km NNE of Santa Margarita, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146966"
+    },
+    {
+        "location": [
+            -122.7766667,
+            38.8043333,
+            2.14
+        ],
+        "place": "4km NNW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.2 - 4km NNW of The Geysers, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146961"
+    },
+    {
+        "location": [
+            -149.0147,
+            64.7728,
+            18.3
+        ],
+        "place": "22km NNE of North Nenana, Alaska",
+        "time_zone": -540,
+        "title": "M 1.5 - 22km NNE of North Nenana, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rkfkq1"
+    },
+    {
+        "location": [
+            -147.1494,
+            60.2701,
+            27.8
+        ],
+        "place": "82km WSW of Cordova, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 82km WSW of Cordova, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rkb6a1"
+    },
+    {
+        "location": [
+            -150.2524,
+            60.945,
+            41.1
+        ],
+        "place": "35km SSW of Anchorage, Alaska",
+        "time_zone": -540,
+        "title": "M 2.0 - 35km SSW of Anchorage, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rk8qqr"
+    },
+    {
+        "location": [
+            -151.0922,
+            64.6973,
+            13.6
+        ],
+        "place": "40km SSW of Manley Hot Springs, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 40km SSW of Manley Hot Springs, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rk7gaq"
+    },
+    {
+        "location": [
+            -111.9346667,
+            40.467,
+            6.15
+        ],
+        "place": "2km S of Bluffdale, Utah",
+        "time_zone": -420,
+        "title": "M 1.5 - 2km S of Bluffdale, Utah",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu60314892"
+    },
+    {
+        "location": [
+            -116.97,
+            32.624,
+            -0.19
+        ],
+        "place": "7km SE of Bonita, CA",
+        "time_zone": -480,
+        "title": "M 1.3 Quarry Blast - 7km SE of Bonita, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38480344"
+    },
+    {
+        "location": [
+            -66.04,
+            17.9091,
+            13
+        ],
+        "place": "6km SSE of Arroyo, Puerto Rico",
+        "time_zone": -240,
+        "title": "M 1.2 - 6km SSE of Arroyo, Puerto Rico",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060008"
+    },
+    {
+        "location": [
+            170.5562,
+            53.9892,
+            26.72
+        ],
+        "place": "216km NW of Attu Station, Alaska",
+        "time_zone": 660,
+        "title": "M 4.2 - 216km NW of Attu Station, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9ht"
+    },
+    {
+        "location": [
+            -152.332,
+            61.0311,
+            111.9
+        ],
+        "place": "64km NNE of Redoubt Volcano, Alaska",
+        "time_zone": -540,
+        "title": "M 1.0 - 64km NNE of Redoubt Volcano, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rjo5tk"
+    },
+    {
+        "location": [
+            -152.8444,
+            59.7935,
+            96.1
+        ],
+        "place": "56km W of Anchor Point, Alaska",
+        "time_zone": -540,
+        "title": "M 1.6 - 56km W of Anchor Point, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rj8ytm"
+    },
+    {
+        "location": [
+            -149.8888,
+            61.4841,
+            32.1
+        ],
+        "place": "5km SE of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.4 - 5km SE of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rj64sk"
+    },
+    {
+        "location": [
+            -148.158,
+            62.3064,
+            35.3
+        ],
+        "place": "67km NNE of Sutton-Alpine, Alaska",
+        "time_zone": -540,
+        "title": "M 1.5 - 67km NNE of Sutton-Alpine, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rj491e"
+    },
+    {
+        "location": [
+            -115.0497,
+            36.3704,
+            0
+        ],
+        "place": "13km N of Nellis Air Force Base, Nevada",
+        "time_zone": -480,
+        "title": "M 1.1 - 13km N of Nellis Air Force Base, Nevada",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679079"
+    },
+    {
+        "location": [
+            -117.5406667,
+            36.037,
+            2.28
+        ],
+        "place": "32km NNW of Searles Valley, CA",
+        "time_zone": -480,
+        "title": "M 1.5 - 32km NNW of Searles Valley, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38480144"
+    },
+    {
+        "location": [
+            -118.7644,
+            40.0073,
+            4
+        ],
+        "place": "31km SW of Lovelock, Nevada",
+        "time_zone": -480,
+        "title": "M 1.5 - 31km SW of Lovelock, Nevada",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679074"
+    },
+    {
+        "location": [
+            -114.1464,
+            37.205,
+            0
+        ],
+        "place": "38km NNW of Beaver Dam, Arizona",
+        "time_zone": -480,
+        "title": "M 1.0 - 38km NNW of Beaver Dam, Arizona",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679073"
+    },
+    {
+        "location": [
+            -147.2287,
+            60.3313,
+            19.9
+        ],
+        "place": "84km WSW of Cordova, Alaska",
+        "time_zone": -540,
+        "title": "M 1.6 - 84km WSW of Cordova, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192ridwys"
+    },
+    {
+        "location": [
+            -122.8393333,
+            38.8415,
+            1.97
+        ],
+        "place": "10km NW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.2 - 10km NW of The Geysers, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146926"
+    },
+    {
+        "location": [
+            -152.2684,
+            57.6455,
+            24.8
+        ],
+        "place": "18km SSE of Kodiak, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 18km SSE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192ridfmd"
+    },
+    {
+        "location": [
+            -152.6175,
+            60.0355,
+            85.9
+        ],
+        "place": "50km S of Redoubt Volcano, Alaska",
+        "time_zone": -540,
+        "title": "M 1.8 - 50km S of Redoubt Volcano, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192ri2kr9"
+    },
+    {
+        "location": [
+            -150.1067,
+            61.347,
+            17.8
+        ],
+        "place": "18km NW of Anchorage, Alaska",
+        "time_zone": -540,
+        "title": "M 2.8 - 18km NW of Anchorage, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhxus3"
+    },
+    {
+        "location": [
+            -149.0526,
+            65.1706,
+            9.7
+        ],
+        "place": "60km NW of Ester, Alaska",
+        "time_zone": -540,
+        "title": "M 1.9 - 60km NW of Ester, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhwxqh"
+    },
+    {
+        "location": [
+            -118.8148333,
+            37.4778333,
+            3.32
+        ],
+        "place": "15km SW of Toms Place, CA",
+        "time_zone": -480,
+        "title": "M 1.2 - 15km SW of Toms Place, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146916"
+    },
+    {
+        "location": [
+            -140.2667,
+            59.949,
+            10.8
+        ],
+        "place": "54km NW of Yakutat, Alaska",
+        "time_zone": -540,
+        "title": "M 2.4 - 54km NW of Yakutat, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhum8f"
+    },
+    {
+        "location": [
+            -122.8000031,
+            38.8260002,
+            1.93
+        ],
+        "place": "7km NW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.1 - 7km NW of The Geysers, CA",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146901"
+    },
+    {
+        "location": [
+            -149.3325,
+            61.8665,
+            3.9
+        ],
+        "place": "14km NNW of Fishhook, Alaska",
+        "time_zone": -540,
+        "title": "M 1.6 - 14km NNW of Fishhook, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhizuk"
+    },
+    {
+        "location": [
+            -155.2836609,
+            19.4046669,
+            0.11
+        ],
+        "place": "5km WSW of Volcano, Hawaii",
+        "time_zone": -600,
+        "title": "M 1.8 - 5km WSW of Volcano, Hawaii",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70835626"
+    },
+    {
+        "location": [
+            -151.0555,
+            61.5582,
+            56
+        ],
+        "place": "57km WSW of Willow, Alaska",
+        "time_zone": -540,
+        "title": "M 2.4 - 57km WSW of Willow, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhhzfy"
+    },
+    {
+        "location": [
+            -150.0741,
+            61.4014,
+            42.3
+        ],
+        "place": "14km SSW of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.4 - 14km SSW of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhhkhj"
+    },
+    {
+        "location": [
+            -112.5323333,
+            46.923,
+            14.43
+        ],
+        "place": "11km ESE of Lincoln, Montana",
+        "time_zone": -420,
+        "title": "M 1.7 - 11km ESE of Lincoln, Montana",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb80336874"
+    },
+    {
+        "location": [
+            -152.4593,
+            60.1941,
+            92.3
+        ],
+        "place": "36km SSE of Redoubt Volcano, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 36km SSE of Redoubt Volcano, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhfktn"
+    },
+    {
+        "location": [
+            -112.5423333,
+            46.9193333,
+            13
+        ],
+        "place": "11km ESE of Lincoln, Montana",
+        "time_zone": -420,
+        "title": "M 1.8 - 11km ESE of Lincoln, Montana",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb80336869"
+    },
+    {
+        "location": [
+            -150.0863,
+            61.7665,
+            0
+        ],
+        "place": "3km NW of Willow, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 3km NW of Willow, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rhai0m"
+    },
+    {
+        "location": [
+            -118.4755,
+            35.4613333,
+            0.27
+        ],
+        "place": "14km S of Bodfish, CA",
+        "time_zone": -480,
+        "title": "M 1.4 - 14km S of Bodfish, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38479896"
+    },
+    {
+        "location": [
+            -147.0865,
+            61.0175,
+            20.7
+        ],
+        "place": "41km WSW of Valdez, Alaska",
+        "time_zone": -540,
+        "title": "M 1.3 - 41km WSW of Valdez, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rh973m"
+    },
+    {
+        "location": [
+            -151.2936,
+            61.5064,
+            64.1
+        ],
+        "place": "71km W of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.9 - 71km W of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rgvwrw"
+    },
+    {
+        "location": [
+            167.827,
+            -11.982,
+            342.06
+        ],
+        "place": "212km N of Sola, Vanuatu",
+        "time_zone": 660,
+        "title": "M 4.8 - 212km N of Sola, Vanuatu",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9d0"
+    },
+    {
+        "location": [
+            -118.3521667,
+            37.449,
+            4.39
+        ],
+        "place": "9km NE of Dixon Lane-Meadow Creek, CA",
+        "time_zone": -480,
+        "title": "M 1.4 - 9km NE of Dixon Lane-Meadow Creek, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146871"
+    },
+    {
+        "location": [
+            -147.2279,
+            60.3272,
+            19.6
+        ],
+        "place": "84km WSW of Cordova, Alaska",
+        "time_zone": -540,
+        "title": "M 2.5 - 84km WSW of Cordova, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rgnc5t"
+    },
+    {
+        "location": [
+            -151.631,
+            61.6422,
+            69
+        ],
+        "place": "85km W of Willow, Alaska",
+        "time_zone": -540,
+        "title": "M 2.6 - 85km W of Willow, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rgnaln"
+    },
+    {
+        "location": [
+            -144.9972,
+            69.5429,
+            6.6
+        ],
+        "place": "84km SW of Kaktovik, Alaska",
+        "time_zone": -540,
+        "title": "M 2.1 - 84km SW of Kaktovik, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rgn5kk"
+    },
+    {
+        "location": [
+            -153.5318,
+            59.2164,
+            107.7
+        ],
+        "place": "98km SE of Old Iliamna, Alaska",
+        "time_zone": -540,
+        "title": "M 1.8 - 98km SE of Old Iliamna, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rgmnq8"
+    },
+    {
+        "location": [
+            -147.5163,
+            61.7329,
+            37.1
+        ],
+        "place": "70km E of Sutton-Alpine, Alaska",
+        "time_zone": -540,
+        "title": "M 2.7 - 70km E of Sutton-Alpine, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rgm9d4"
+    },
+    {
+        "location": [
+            -148.1337,
+            61.6954,
+            11
+        ],
+        "place": "39km ESE of Sutton-Alpine, Alaska",
+        "time_zone": -540,
+        "title": "M 1.6 - 39km ESE of Sutton-Alpine, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rgbwuj"
+    },
+    {
+        "location": [
+            -66.919,
+            17.9595,
+            10
+        ],
+        "place": "1km SW of Guanica, Puerto Rico",
+        "time_zone": -240,
+        "title": "M 1.7 - 1km SW of Guanica, Puerto Rico",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060007"
+    },
+    {
+        "location": [
+            -120.77016666667,
+            48.207666666667,
+            5.21
+        ],
+        "place": "50km SSW of Mazama, Washington",
+        "time_zone": -480,
+        "title": "M 1.2 - 50km SSW of Mazama, Washington",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw61512806"
+    },
+    {
+        "location": [
+            -121.5838333,
+            36.8611667,
+            4.83
+        ],
+        "place": "4km WNW of San Juan Bautista, CA",
+        "time_zone": -480,
+        "title": "M 1.3 - 4km WNW of San Juan Bautista, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146846"
+    },
+    {
+        "location": [
+            -146.6513,
+            61.445,
+            31.3
+        ],
+        "place": "38km NNW of Valdez, Alaska",
+        "time_zone": -540,
+        "title": "M 1.4 - 38km NNW of Valdez, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rg18vh"
+    },
+    {
+        "location": [
+            -151.7152,
+            59.9565,
+            66.9
+        ],
+        "place": "21km NNE of Anchor Point, Alaska",
+        "time_zone": -540,
+        "title": "M 1.2 - 21km NNE of Anchor Point, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rg06fj"
+    },
+    {
+        "location": [
+            -155.4638333,
+            19.1863333,
+            35.26
+        ],
+        "place": "2km SE of Pahala, Hawaii",
+        "time_zone": -600,
+        "title": "M 1.8 - 2km SE of Pahala, Hawaii",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70835421"
+    },
+    {
+        "location": [
+            -121.5888333,
+            36.8633333,
+            5.37
+        ],
+        "place": "5km WNW of San Juan Bautista, CA",
+        "time_zone": -480,
+        "title": "M 2.0 - 5km WNW of San Juan Bautista, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146841"
+    },
+    {
+        "location": [
+            -121.8108333,
+            40.6476667,
+            18.13
+        ],
+        "place": "18km NW of Viola, CA",
+        "time_zone": -480,
+        "title": "M 1.1 - 18km NW of Viola, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146836"
+    },
+    {
+        "location": [
+            -120.738,
+            36.1583333,
+            8.25
+        ],
+        "place": "22km NE of San Ardo, CA",
+        "time_zone": -480,
+        "title": "M 2.3 - 22km NE of San Ardo, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146826"
+    },
+    {
+        "location": [
+            -151.6331,
+            63.3934,
+            4.7
+        ],
+        "place": "134km W of Cantwell, Alaska",
+        "time_zone": -540,
+        "title": "M 1.3 - 134km W of Cantwell, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rf4p4o"
+    },
+    {
+        "location": [
+            -68.7064,
+            -22.2627,
+            114.94
+        ],
+        "place": "32km NE of Calama, Chile",
+        "time_zone": -240,
+        "title": "M 4.2 - 32km NE of Calama, Chile",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9bx"
+    },
+    {
+        "location": [
+            -150.0618,
+            61.3822,
+            44.1
+        ],
+        "place": "16km SSW of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.6 - 16km SSW of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rez27u"
+    },
+    {
+        "location": [
+            -111.4313333,
+            38.8468333,
+            5.38
+        ],
+        "place": "37km SW of Ferron, Utah",
+        "time_zone": -420,
+        "title": "M 1.3 - 37km SW of Ferron, Utah",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu60314857"
+    },
+    {
+        "location": [
+            -151.3369,
+            63.1876,
+            0.7
+        ],
+        "place": "114km NNW of Talkeetna, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 114km NNW of Talkeetna, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192revh4s"
+    },
+    {
+        "location": [
+            -122.542,
+            46.279833333333,
+            19.86
+        ],
+        "place": "28km E of Castle Rock, Washington",
+        "time_zone": -480,
+        "title": "M 1.1 - 28km E of Castle Rock, Washington",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw61512796"
+    },
+    {
+        "location": [
+            -112.503,
+            38.7206667,
+            10.28
+        ],
+        "place": "31km SSW of Fillmore, Utah",
+        "time_zone": -420,
+        "title": "M 1.8 - 31km SSW of Fillmore, Utah",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu60314852"
+    },
+    {
+        "location": [
+            -66.009,
+            17.8928,
+            12
+        ],
+        "place": "9km SE of Arroyo, Puerto Rico",
+        "time_zone": -240,
+        "title": "M 2.0 - 9km SE of Arroyo, Puerto Rico",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060006"
+    },
+    {
+        "location": [
+            -155.2826691,
+            19.4026661,
+            0.1
+        ],
+        "place": "5km WSW of Volcano, Hawaii",
+        "time_zone": -600,
+        "title": "M 1.8 - 5km WSW of Volcano, Hawaii",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70835306"
+    },
+    {
+        "location": [
+            129.358,
+            -7.1839,
+            145.38
+        ],
+        "place": "232km WNW of Saumlaki, Indonesia",
+        "time_zone": 540,
+        "title": "M 4.4 - 232km WNW of Saumlaki, Indonesia",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9b2"
+    },
+    {
+        "location": [
+            -150.0682,
+            63.0672,
+            92
+        ],
+        "place": "66km WSW of Cantwell, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 66km WSW of Cantwell, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rebo3o"
+    },
+    {
+        "location": [
+            -150.0421,
+            63.2567,
+            24.7
+        ],
+        "place": "56km WSW of Cantwell, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 56km WSW of Cantwell, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192re7v9y"
+    },
+    {
+        "location": [
+            -115.8529,
+            37.742,
+            0
+        ],
+        "place": "67km SE of Warm Springs, Nevada",
+        "time_zone": -480,
+        "title": "M 1.0 - 67km SE of Warm Springs, Nevada",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679098"
+    },
+    {
+        "location": [
+            -150.1994,
+            61.5034,
+            27.8
+        ],
+        "place": "13km W of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.4 - 13km W of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rdwvct"
+    },
+    {
+        "location": [
+            -118.701,
+            34.2916667,
+            10.82
+        ],
+        "place": "4km ENE of Simi Valley, CA",
+        "time_zone": -480,
+        "title": "M 1.1 - 4km ENE of Simi Valley, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci37208236"
+    },
+    {
+        "location": [
+            -118.6966667,
+            34.2951667,
+            9.16
+        ],
+        "place": "5km NE of Simi Valley, CA",
+        "time_zone": -480,
+        "title": "M 1.2 - 5km NE of Simi Valley, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38479720"
+    },
+    {
+        "location": [
+            -147.181,
+            60.3612,
+            24.9
+        ],
+        "place": "80km WSW of Cordova, Alaska",
+        "time_zone": -540,
+        "title": "M 1.9 - 80km WSW of Cordova, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rdubpz"
+    },
+    {
+        "location": [
+            127.0272,
+            7.2454,
+            35
+        ],
+        "place": "50km E of Santiago, Philippines",
+        "time_zone": 480,
+        "title": "M 4.9 - 50km E of Santiago, Philippines",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j98x"
+    },
+    {
+        "location": [
+            -71.6575,
+            41.193,
+            7.2
+        ],
+        "place": "21km S of Charlestown, Rhode Island",
+        "time_zone": -300,
+        "title": "M 2.3 - 21km S of Charlestown, Rhode Island",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9u5"
+    },
+    {
+        "location": [
+            -122.786,
+            38.8373333,
+            1.22
+        ],
+        "place": "6km WNW of Cobb, CA",
+        "time_zone": -480,
+        "title": "M 1.4 - 6km WNW of Cobb, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146796"
+    },
+    {
+        "location": [
+            -117.1185,
+            38.1057,
+            12.7
+        ],
+        "place": "10km ENE of Tonopah, Nevada",
+        "time_zone": -480,
+        "title": "M 1.6 - 10km ENE of Tonopah, Nevada",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679054"
+    },
+    {
+        "location": [
+            -150.0798,
+            61.3966,
+            33.2
+        ],
+        "place": "15km SSW of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.5 - 15km SSW of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rdb9w7"
+    },
+    {
+        "location": [
+            -70.1267,
+            -14.6844,
+            257.42
+        ],
+        "place": "27km NNE of Azangaro, Peru",
+        "time_zone": -300,
+        "title": "M 7.0 - 27km NNE of Azangaro, Peru",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j96d"
+    },
+    {
+        "location": [
+            -120.1133333,
+            36.086,
+            8.5
+        ],
+        "place": "9km N of Avenal, CA",
+        "time_zone": -480,
+        "title": "M 1.7 - 9km N of Avenal, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146766"
+    },
+    {
+        "location": [
+            -116.2675,
+            32.9408333,
+            9.54
+        ],
+        "place": "26km SSW of Ocotillo Wells, CA",
+        "time_zone": -480,
+        "title": "M 1.1 - 26km SSW of Ocotillo Wells, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38479664"
+    },
+    {
+        "location": [
+            -119.8931,
+            39.3922,
+            6.4
+        ],
+        "place": "13km SSE of Mogul, Nevada",
+        "time_zone": -480,
+        "title": "M 1.1 - 13km SSE of Mogul, Nevada",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679052"
+    },
+    {
+        "location": [
+            -122.8221667,
+            38.8151667,
+            1.93
+        ],
+        "place": "7km NW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.9 - 7km NW of The Geysers, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146751"
+    },
+    {
+        "location": [
+            -122.8223333,
+            38.8118333,
+            2.3
+        ],
+        "place": "7km NW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.9 - 7km NW of The Geysers, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146756"
+    },
+    {
+        "location": [
+            -150.8924,
+            62.902,
+            32.9
+        ],
+        "place": "75km NNW of Talkeetna, Alaska",
+        "time_zone": -540,
+        "title": "M 2.0 - 75km NNW of Talkeetna, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rd2g3b"
+    },
+    {
+        "location": [
+            -67.1893,
+            18.8168,
+            10
+        ],
+        "place": "37km NNW of San Antonio, Puerto Rico",
+        "time_zone": -240,
+        "title": "M 2.2 - 37km NNW of San Antonio, Puerto Rico",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060005"
+    },
+    {
+        "location": [
+            -150.8143,
+            60.9244,
+            33.1
+        ],
+        "place": "36km NE of Nikiski, Alaska",
+        "time_zone": -540,
+        "title": "M 1.3 - 36km NE of Nikiski, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rcrlii"
+    },
+    {
+        "location": [
+            -122.8304977,
+            38.8364983,
+            1.89
+        ],
+        "place": "9km NW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.1 - 9km NW of The Geysers, CA",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146741"
+    },
+    {
+        "location": [
+            -146.8771,
+            60.8342,
+            20
+        ],
+        "place": "43km SW of Valdez, Alaska",
+        "time_zone": -540,
+        "title": "M 1.9 - 43km SW of Valdez, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rckw9n"
+    },
+    {
+        "location": [
+            -68.4373,
+            18.194,
+            105
+        ],
+        "place": "29km SE of Boca de Yuma, Dominican Republic",
+        "time_zone": -240,
+        "title": "M 2.6 - 29km SE of Boca de Yuma, Dominican Republic",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060004"
+    },
+    {
+        "location": [
+            142.7113,
+            -6.2457,
+            35
+        ],
+        "place": "101km SSW of Porgera, Papua New Guinea",
+        "time_zone": 600,
+        "title": "M 4.7 - 101km SSW of Porgera, Papua New Guinea",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j964"
+    },
+    {
+        "location": [
+            -116.7935,
+            33.4808333,
+            3.91
+        ],
+        "place": "8km ENE of Aguanga, CA",
+        "time_zone": -480,
+        "title": "M 1.5 - 8km ENE of Aguanga, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38479632"
+    },
+    {
+        "location": [
+            -151.5994,
+            63.2732,
+            14.7
+        ],
+        "place": "130km NW of Talkeetna, Alaska",
+        "time_zone": -540,
+        "title": "M 2.6 - 130km NW of Talkeetna, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rch81f"
+    },
+    {
+        "location": [
+            -118.8443,
+            38.2512,
+            8.2
+        ],
+        "place": "33km E of Bridgeport, California",
+        "time_zone": -480,
+        "title": "M 1.2 - 33km E of Bridgeport, California",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679050"
+    },
+    {
+        "location": [
+            -155.4616667,
+            19.1866667,
+            35.5
+        ],
+        "place": "2km SE of Pahala, Hawaii",
+        "time_zone": -600,
+        "title": "M 1.8 - 2km SE of Pahala, Hawaii",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70835101"
+    },
+    {
+        "location": [
+            -141.5947,
+            60.102,
+            10.3
+        ],
+        "place": "46km E of Cape Yakataga, Alaska",
+        "time_zone": -540,
+        "title": "M 2.1 - 46km E of Cape Yakataga, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rc2xc1"
+    },
+    {
+        "location": [
+            -148.7502,
+            56.4835,
+            20.11
+        ],
+        "place": "264km ESE of Kodiak, Alaska",
+        "time_zone": -600,
+        "title": "M 2.8 - 264km ESE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9hm"
+    },
+    {
+        "location": [
+            -122.8303333,
+            38.8411667,
+            1.94
+        ],
+        "place": "10km WNW of Cobb, CA",
+        "time_zone": -480,
+        "title": "M 1.7 - 10km WNW of Cobb, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146711"
+    },
+    {
+        "location": [
+            -149.9028,
+            61.4835,
+            28.8
+        ],
+        "place": "5km SSE of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 5km SSE of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rbkagg"
+    },
+    {
+        "location": [
+            -152.3785,
+            59.7421,
+            101.9
+        ],
+        "place": "30km W of Anchor Point, Alaska",
+        "time_zone": -600,
+        "title": "M 1.9 - 30km W of Anchor Point, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rbk8wz"
+    },
+    {
+        "location": [
+            -150.0631,
+            61.3745,
+            37.9
+        ],
+        "place": "16km NNW of Anchorage, Alaska",
+        "time_zone": -540,
+        "title": "M 3.1 - 16km NNW of Anchorage, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rbjgkv"
+    },
+    {
+        "location": [
+            -122.8148333,
+            38.8126667,
+            2.36
+        ],
+        "place": "6km NW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.2 - 6km NW of The Geysers, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146706"
+    },
+    {
+        "location": [
+            72.8415,
+            20.1681,
+            10
+        ],
+        "place": "21km WSW of Silvassa, India",
+        "time_zone": 330,
+        "title": "M 4.0 - 21km WSW of Silvassa, India",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j959"
+    },
+    {
+        "location": [
+            -155.4588333,
+            19.1811667,
+            36.44
+        ],
+        "place": "3km SE of Pahala, Hawaii",
+        "time_zone": -600,
+        "title": "M 1.9 - 3km SE of Pahala, Hawaii",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70835041"
+    },
+    {
+        "location": [
+            -149.9231,
+            61.5243,
+            34.4
+        ],
+        "place": "1km E of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.6 - 1km E of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rbebv4"
+    },
+    {
+        "location": [
+            -150.7637,
+            60.5942,
+            21.7
+        ],
+        "place": "6km N of Sterling, Alaska",
+        "time_zone": -540,
+        "title": "M 1.4 - 6km N of Sterling, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rbdtmr"
+    },
+    {
+        "location": [
+            -148.7064,
+            56.326,
+            19.35
+        ],
+        "place": "277km SE of Kodiak, Alaska",
+        "time_zone": -600,
+        "title": "M 3.3 - 277km SE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j951"
+    },
+    {
+        "location": [
+            -67.6915,
+            19.2646,
+            23
+        ],
+        "place": "103km NE of Punta Cana, Dominican Republic",
+        "time_zone": -300,
+        "title": "M 2.6 - 103km NE of Punta Cana, Dominican Republic",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060003"
+    },
+    {
+        "location": [
+            -66.5873,
+            19.0751,
+            58
+        ],
+        "place": "68km NNE of Arecibo, Puerto Rico",
+        "time_zone": -240,
+        "title": "M 2.2 - 68km NNE of Arecibo, Puerto Rico",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060002"
+    },
+    {
+        "location": [
+            -122.19,
+            46.784166666667,
+            19.12
+        ],
+        "place": "10km SSE of Eatonville, Washington",
+        "time_zone": -480,
+        "title": "M 1.3 - 10km SSE of Eatonville, Washington",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw61512781"
+    },
+    {
+        "location": [
+            -151.3937,
+            62.6269,
+            62.8
+        ],
+        "place": "74km WNW of Talkeetna, Alaska",
+        "time_zone": -540,
+        "title": "M 1.8 - 74km WNW of Talkeetna, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192rb8pq3"
+    },
+    {
+        "location": [
+            -155.2776642,
+            19.4051666,
+            0.1
+        ],
+        "place": "5km SW of Volcano, Hawaii",
+        "time_zone": -600,
+        "title": "M 1.8 - 5km SW of Volcano, Hawaii",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70835036"
+    },
+    {
+        "location": [
+            27.7998,
+            -26.2678,
+            10
+        ],
+        "place": "5km W of Soweto, South Africa",
+        "time_zone": 120,
+        "title": "M 4.8 - 5km W of Soweto, South Africa",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9sy"
+    },
+    {
+        "location": [
+            -155.4417,
+            59.6257,
+            2.4
+        ],
+        "place": "32km WSW of Old Iliamna, Alaska",
+        "time_zone": -540,
+        "title": "M 1.8 - 32km WSW of Old Iliamna, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192raxrn2"
+    },
+    {
+        "location": [
+            -157.3854,
+            66.2997,
+            10.7
+        ],
+        "place": "71km SSW of Kobuk, Alaska",
+        "time_zone": -540,
+        "title": "M 2.1 - 71km SSW of Kobuk, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192raxpgc"
+    },
+    {
+        "location": [
+            -149.1111,
+            56.9061,
+            10
+        ],
+        "place": "221km ESE of Kodiak, Alaska",
+        "time_zone": -600,
+        "title": "M 3.0 - 221km ESE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j9h3"
+    },
+    {
+        "location": [
+            -135.8911,
+            59.0157,
+            4.2
+        ],
+        "place": "34km SW of Haines, Alaska",
+        "time_zone": -540,
+        "title": "M 2.3 - 34km SW of Haines, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192ratr7h"
+    },
+    {
+        "location": [
+            -124.1188333,
+            40.3376667,
+            26.95
+        ],
+        "place": "14km E of Petrolia, CA",
+        "time_zone": -480,
+        "title": "M 2.5 - 14km E of Petrolia, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146686"
+    },
+    {
+        "location": [
+            -65.4656,
+            18.3458,
+            24
+        ],
+        "place": "18km ENE of Luis M. Cintron, Puerto Rico",
+        "time_zone": -240,
+        "title": "M 2.3 - 18km ENE of Luis M. Cintron, Puerto Rico",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060001"
+    },
+    {
+        "location": [
+            -112.6471667,
+            46.8968333,
+            14.63
+        ],
+        "place": "6km SSE of Lincoln, Montana",
+        "time_zone": -420,
+        "title": "M 1.6 - 6km SSE of Lincoln, Montana",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb80336834"
+    },
+    {
+        "location": [
+            -148.6885,
+            56.4323,
+            10
+        ],
+        "place": "271km ESE of Kodiak, Alaska",
+        "time_zone": -600,
+        "title": "M 4.2 - 271km ESE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j947"
+    },
+    {
+        "location": [
+            -148.5948,
+            56.3318,
+            10
+        ],
+        "place": "282km ESE of Kodiak, Alaska",
+        "time_zone": -600,
+        "title": "M 3.3 - 282km ESE of Kodiak, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j948"
+    },
+    {
+        "location": [
+            -144.3463,
+            69.3393,
+            0
+        ],
+        "place": "62km SSW of Kaktovik, Alaska",
+        "time_zone": -540,
+        "title": "M 2.5 - 62km SSW of Kaktovik, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192ra937f"
+    },
+    {
+        "location": [
+            -86.3846,
+            10.992,
+            35
+        ],
+        "place": "63km WSW of San Juan del Sur, Nicaragua",
+        "time_zone": -360,
+        "title": "M 4.5 - 63km WSW of San Juan del Sur, Nicaragua",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j946"
+    },
+    {
+        "location": [
+            -150.0259,
+            61.4842,
+            18.3
+        ],
+        "place": "0km N of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 2.7 - 0km N of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192ra51s4"
+    },
+    {
+        "location": [
+            -157.6699,
+            58.9731,
+            9.2
+        ],
+        "place": "45km E of Dillingham, Alaska",
+        "time_zone": -540,
+        "title": "M 2.0 - 45km E of Dillingham, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r9qmqd"
+    },
+    {
+        "location": [
+            -157.3834,
+            66.2457,
+            4
+        ],
+        "place": "77km SSW of Kobuk, Alaska",
+        "time_zone": -540,
+        "title": "M 2.7 - 77km SSW of Kobuk, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r9qaov"
+    },
+    {
+        "location": [
+            -121.0525,
+            36.4901667,
+            8.19
+        ],
+        "place": "9km ESE of Pinnacles, CA",
+        "time_zone": -480,
+        "title": "M 1.4 - 9km ESE of Pinnacles, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146671"
+    },
+    {
+        "location": [
+            -121.2292,
+            39.945,
+            5.5
+        ],
+        "place": "24km W of Quincy, California",
+        "time_zone": -480,
+        "title": "M 1.1 - 24km W of Quincy, California",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00679083"
+    },
+    {
+        "location": [
+            -155.5991667,
+            20.002,
+            13.32
+        ],
+        "place": "7km ESE of Waimea, Hawaii",
+        "time_zone": -600,
+        "title": "M 1.9 - 7km ESE of Waimea, Hawaii",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70834881"
+    },
+    {
+        "location": [
+            -150.0688,
+            61.3863,
+            42
+        ],
+        "place": "16km SSW of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 16km SSW of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r9j6u3"
+    },
+    {
+        "location": [
+            -67.012,
+            18.2553,
+            28
+        ],
+        "place": "2km W of Las Marias, Puerto Rico",
+        "time_zone": -240,
+        "title": "M 2.2 - 2km W of Las Marias, Puerto Rico",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2019060000"
+    },
+    {
+        "location": [
+            -88.5404,
+            13.5684,
+            200.06
+        ],
+        "place": "7km N of Berlin, El Salvador",
+        "time_zone": -360,
+        "title": "M 4.5 - 7km N of Berlin, El Salvador",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j93r"
+    },
+    {
+        "location": [
+            -155.4068333,
+            19.3265,
+            9.29
+        ],
+        "place": "15km NNE of Pahala, Hawaii",
+        "time_zone": -600,
+        "title": "M 2.4 - 15km NNE of Pahala, Hawaii",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70834781"
+    },
+    {
+        "location": [
+            -150.0577,
+            61.4322,
+            36.3
+        ],
+        "place": "11km SSW of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 1.6 - 11km SSW of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r90rg8"
+    },
+    {
+        "location": [
+            -116.2716667,
+            33.2468333,
+            10.4
+        ],
+        "place": "10km E of Borrego Springs, CA",
+        "time_zone": -480,
+        "title": "M 1.3 - 10km E of Borrego Springs, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38479488"
+    },
+    {
+        "location": [
+            -144.2559,
+            69.6255,
+            0.3
+        ],
+        "place": "61km SSW of Kaktovik, Alaska",
+        "time_zone": -540,
+        "title": "M 2.9 - 61km SSW of Kaktovik, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r8xkdk"
+    },
+    {
+        "location": [
+            -117.3968333,
+            34.1943333,
+            14.03
+        ],
+        "place": "3km S of Devore, CA",
+        "time_zone": -480,
+        "title": "M 1.7 - 3km S of Devore, CA",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38479472"
+    },
+    {
+        "location": [
+            159.5408,
+            -53.4107,
+            10
+        ],
+        "place": "125km NNE of Macquarie Island, Australia",
+        "time_zone": 660,
+        "title": "M 5.8 - 125km NNE of Macquarie Island, Australia",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j92m"
+    },
+    {
+        "location": [
+            125.3797,
+            5.0358,
+            181.47
+        ],
+        "place": "41km SSW of Sarangani, Philippines",
+        "time_zone": 480,
+        "title": "M 5.2 - 41km SSW of Sarangani, Philippines",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j92p"
+    },
+    {
+        "location": [
+            -154.6968,
+            58.4187,
+            2.1
+        ],
+        "place": "106km NNW of Larsen Bay, Alaska",
+        "time_zone": -540,
+        "title": "M 2.2 - 106km NNW of Larsen Bay, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r8hig5"
+    },
+    {
+        "location": [
+            71.4718,
+            36.9305,
+            189.55
+        ],
+        "place": "26km NNW of Ishkashim, Tajikistan",
+        "time_zone": 270,
+        "title": "M 4.0 - 26km NNW of Ishkashim, Tajikistan",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j921"
+    },
+    {
+        "location": [
+            -150.009,
+            61.4897,
+            19.2
+        ],
+        "place": "4km SW of Big Lake, Alaska",
+        "time_zone": -540,
+        "title": "M 2.2 - 4km SW of Big Lake, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r8g43d"
+    },
+    {
+        "location": [
+            -147.2993,
+            64.9808,
+            1.1
+        ],
+        "place": "23km NNE of Badger, Alaska",
+        "time_zone": -540,
+        "title": "M 1.7 - 23km NNE of Badger, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r8f9w8"
+    },
+    {
+        "location": [
+            -155.5577,
+            59.6522,
+            4.8
+        ],
+        "place": "37km WSW of Old Iliamna, Alaska",
+        "time_zone": -540,
+        "title": "M 2.9 - 37km WSW of Old Iliamna, Alaska",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r8exmc"
+    },
+    {
+        "location": [
+            -146.9447,
+            61.5625,
+            10.7
+        ],
+        "place": "57km NNW of Valdez, Alaska",
+        "time_zone": -540,
+        "title": "M 1.8 - 57km NNW of Valdez, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r8ewr5"
+    },
+    {
+        "location": [
+            -122.8231659,
+            38.8088341,
+            2
+        ],
+        "place": "7km WNW of The Geysers, CA",
+        "time_zone": -480,
+        "title": "M 1.2 - 7km WNW of The Geysers, CA",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73146646"
+    },
+    {
+        "location": [
+            -97.566,
+            35.7312,
+            5
+        ],
+        "place": "11km NW of Edmond, Oklahoma",
+        "time_zone": -360,
+        "title": "M 3.1 - 11km NW of Edmond, Oklahoma",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j91d"
+    },
+    {
+        "location": [
+            -147.7944,
+            60.4581,
+            17.9
+        ],
+        "place": "60km SE of Whittier, Alaska",
+        "time_zone": -540,
+        "title": "M 1.8 - 60km SE of Whittier, Alaska",
+        "status": "automatic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0192r8btt6"
+    },
+    {
+        "location": [
+            -63.2279,
+            -28.2256,
+            573.63
+        ],
+        "place": "37km SSE of Suncho Corral, Argentina",
+        "time_zone": -180,
+        "title": "M 5.5 - 37km SSE of Suncho Corral, Argentina",
+        "status": "reviewed",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000j91e"
+    }
+]
