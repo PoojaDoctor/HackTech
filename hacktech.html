@@ -80,9 +80,11 @@ function setMarkers(map) {
   for (var i = 0; i < File.length; i++) {
 
     var location = File[i];
+    var latitude =location["location"][0]
+    var longitude= location["location"][1]
     console.log(location);
     var locationInfowindow = new google.maps.InfoWindow({
-      content: 'Test content',
+      content:"lat: "+latitude+" lng: "+longitude
     });
 
     var marker = new google.maps.Marker({
