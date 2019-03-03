@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+    </style>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+
+
+    <script type="text/javascript">
+
+    var url= "earthquake.json";
+    var xmlhttp=new XMLHttpRequest();
+
+
+					xmlhttp.open("GET",url,false);
+					xmlhttp.send();
+
+				console.log(status);
+				jsonDoc=xmlhttp.responseText;
+        var File="global"
+        File =JSON.parse(jsonDoc);
+
+
+    // function readTextFile(file, callback) {
+    //    var rawFile = new XMLHttpRequest();
+    //    rawFile.overrideMimeType(“application/json”);
+    //    rawFile.open(“GET”, file, true);
+    //    rawFile.onreadystatechange = function() {
+    //        if (rawFile.readyState === 4 && rawFile.status == “200”) {
+    //            callback(rawFile.responseText);
+    //        }
+    //    }
+    //    rawFile.send(null);
+    // }
+    //
+    // //usage:
+    // readTextFile(“/Users/Documents/workspace/test.json”, function(text){
+    //    var data = JSON.parse(text);
+    //    console.log(data);
+    // });
+
+
+
+
+var markers=[];
+// Initialize and add the map
+function initMap() {
+  // console.log(File.length);
+
+    // var latitude=File[0]['location'][0];
+    // var longitude=File[0]['location'][1];
+    // console.log(latitude);
+    // console.log(longitude);
+
+  // The location of Uluru
+  var uluru = {lat: 41.327546, lng: 19.818698};
+  // The map, centered at Uluru
+  var map = new google.maps.Map(
+      document.getElementById('map'), {zoom: 12, center: uluru});
+  // The marker, positioned at Uluru
+
+
+
+
+setMarkers(map)
+}
+
+
+function setMarkers(map) {
+  for (var i = 0; i < File.length; i++) {
+
+    var location = File[i];
+    console.log(location);
+    var locationInfowindow = new google.maps.InfoWindow({
+      content: 'Test content',
+    });
+
+    var marker = new google.maps.Marker({
+      position: {lat: location["location"][0], lng: location["location"][1]},
+      map: map,
+      //title: location[0],
+      infowindow: locationInfowindow
+    });
+
+    markers.push(marker);
+
+    google.maps.event.addListener(marker, 'click', function() {
+      hideAllInfoWindows(map);
+      this.infowindow.open(map, this);
+    });
+
+  }
+}
+
+function hideAllInfoWindows(map) {
+   markers.forEach(function(marker) {
+     marker.infowindow.close(map, marker);
+  });
+}
+
+    </script>
+    <!--Load the API from the specified URL
+    * The async attribute allows the browser to render the page while the API loads
+    * The key parameter will contain your own API key (which is not needed for this tutorial)
+    * The callback parameter executes the initMap() function
+    -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQRnN9-SuR0VAJ6MUc3vd5Wn155REBCvw&callback=initMap">
+    </script>
+  </body>
+</html>
