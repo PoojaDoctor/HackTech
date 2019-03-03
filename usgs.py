@@ -27,4 +27,5 @@ for i in range(len(res['features'])):
 	quake['url'] = res['features'][i]['properties']['url']
 	
 	quakes.append(quake)
+print(quakes)
 
